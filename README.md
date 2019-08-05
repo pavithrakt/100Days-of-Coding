@@ -7,6 +7,10 @@
 6. [After you complete the 10th level, what is the JavaScript code you got? ](Day006.md)
 7. [If you adopted the "Follow the Left Wall" algorithm, you will complete Level 10. 
 What is the JavaScript code you got? ](Day007.md)
+8. [If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10. 
+What is the JavaScript code you got? 
+How many blocks did you have left? 
+Assign it to the variable remaining_blocks.](Day008.md)
 
 
 
