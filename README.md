@@ -16,6 +16,8 @@ Assign it to the variable remaining_blocks.](Day008.md)
 The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).
 For example, if N = 3900, then 3900 seconds have passed since midnight. 
 Therefore, the time now is 1:05am. 
-So the program should print 1 65 - 1 full hour is passed since midnight, 65 full minutes passed since midnight.}(Day010.md)
-
+So the program should print 1 65 - 1 full hour is passed since midnight, 65 full minutes passed since midnight.](Day010.md)
+11. [Write a program to calculate the distance between two points.
+To find the distance between two points (x1,y1) and (x2,y2), all that you need to do is use the coordinates of these ordered pairs and apply some common sense. Begin with the most simplest formula and then incrementally arrive at the correct formula as you solve the test cases.
+](Day011.md)
 
