@@ -22,3 +22,4 @@ To find the distance between two points (x1,y1) and (x2,y2), all that you need t
 ](Day011.md)
 12. [Given a three-digit number. Find the sum of its digits.](Day012.md)
 13. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day013.md)
+14. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day013.md)
