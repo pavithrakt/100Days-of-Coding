@@ -20,4 +20,5 @@ So the program should print 1 65 - 1 full hour is passed since midnight, 65 full
 11. [Write a program to calculate the distance between two points.
 To find the distance between two points (x1,y1) and (x2,y2), all that you need to do is use the coordinates of these ordered pairs and apply some common sense. Begin with the most simplest formula and then incrementally arrive at the correct formula as you solve the test cases.
 ](Day011.md)
+12. [Given a three-digit number. Find the sum of its digits.](Day012.md)
 
